@@ -33,25 +33,25 @@ The Executive Overview summarises overall transaction activity using KPI cards, 
 
 ### 2. Customer & Card
 
-![BankPulse Customer and Card Dashboard](Screenshots/customer-card.png)
+![BankPulse Customer and Card Dashboard](Screenshots/Customer&Card.png)
 
 This page explores card brands, card types, customer demographics, payment channels, top customers, top cards, and transaction amounts by gender.
 
 ### 3. Merchant & Geography
 
-![BankPulse Merchant and Geography Dashboard](Screenshots/merchant-geography.png)
+![BankPulse Merchant and Geography Dashboard](Screenshots/Merchant&Geography.png)
 
 This page analyses merchant categories, merchant transaction amounts, transaction counts, chip usage, merchant rankings, and monthly merchant transaction trends.
 
 ### 4. Time & Intelligence
 
-![BankPulse Time and Intelligence Dashboard](Screenshots/time-intelligence.png)
+![BankPulse Time and Intelligence Dashboard](Screenshots/Time&intelligence.png)
 
 This page examines monthly activity, weekday and hourly patterns, time-of-day transaction amounts, peak hours, monthly growth, and transaction amount bands.
 
 ### 5. Transaction Data Explorer
 
-![BankPulse Transaction Data Explorer](Screenshots/transaction-data-explorer.png)
+![BankPulse Transaction Data Explorer](Screenshots/TransactionDataExplorer.png)
 
 The Transaction Data Explorer provides a transaction-level view with filters for year, month, merchant city, merchant state, transaction amount, and chip usage.
 
