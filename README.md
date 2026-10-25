@@ -27,7 +27,7 @@ The project demonstrates practical skills in business intelligence, data modelli
 
 ### 1. Executive Overview
 
-![BankPulse Executive Overview](Screenshots/executive-overview.png)
+![BankPulse Executive Overview](Screenshots/Executive Overview.png)
 
 The Executive Overview summarises overall transaction activity using KPI cards, a monthly transaction trend, and transaction amount comparisons across income and age groups.
 
